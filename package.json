@@ -1,0 +1,30 @@
+{
+  "name": "nova-noir-dark",
+  "displayName": "novanoir",
+  "description": "nova noir theme dark!",
+  "version": "0.0.1",
+  "publisher": "atatijr",
+ 
+  "keywords": [
+    "theme",
+    "dark theme",
+    "atati jr",
+    "forest theme",
+    "dark forest"
+  ],
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nova noir dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nova noir dark-color-theme.json"
+      }
+    ]
+  }
+}
