@@ -4,7 +4,10 @@
   "description": "nova noir theme dark!",
   "version": "0.0.1",
   "publisher": "atatijr",
- 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atahtee/deep-forest-theme"
+  },
   "keywords": [
     "theme",
     "dark theme",
